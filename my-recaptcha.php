@@ -3,7 +3,7 @@
  * Plugin Name: My reCaptcha
  * Plugin URI: http://roidayan.com
  * Description: Google reCaptcha V2 plugin
- * Version: 1.0
+ * Version: 1.0.2
  * Author: Roi Dayan
  * Author URI: http://roidayan.com
  * License: GPLv3
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 
-define( 'MYCP_TD', 'xxx' );
+define( 'MYCP_TD', 'MYCP' );
 
 
 class MyReCaptcha {
